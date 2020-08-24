@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/call.png</file>
+        <file>res/engine.png</file>
+        <file>res/music.png</file>
+        <file>res/navigation.png</file>
+        <file>res/arrow-up.png</file>
+        <file>res/arrow-down.png</file>
+        <file>res/wifi.png</file>
+        <file>res/steering-wheel.png</file>
+        <file>res/svg/audiotrack-24px.svg</file>
+        <file>res/svg/expand_less-24px.svg</file>
+        <file>res/svg/expand_more-24px.svg</file>
+        <file>res/svg/loop-24px.svg</file>
+        <file>res/svg/navigation-24px.svg</file>
+        <file>res/svg/pause_circle_filled-24px.svg</file>
+        <file>res/svg/phone-24px.svg</file>
+        <file>res/svg/play_circle_filled-24px.svg</file>
+        <file>res/svg/repeat-24px.svg</file>
+        <file>res/svg/replay-24px.svg</file>
+        <file>res/svg/shuffle-24px.svg</file>
+        <file>res/svg/skip_next-24px.svg</file>
+        <file>res/svg/skip_previous-24px.svg</file>
+        <file>res/svg/signal_wifi_off-24px.svg</file>
+        <file>res/svg/navigation-black-48dp.svg</file>
+        <file>res/svg/car.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/cover.jpeg</file>
+        <file>Sleep Away.mp3</file>
+        <file>EARFQUAKE.mp3</file>
+        <file>Tyler_The_Creator_-_Earfquake_talkglitz.tv.mp3</file>
+    </qresource>
+    <qresource prefix="/media"/>
+</RCC>
