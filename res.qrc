@@ -1,13 +1,5 @@
 <RCC>
     <qresource prefix="/icons">
-        <file>res/call.png</file>
-        <file>res/engine.png</file>
-        <file>res/music.png</file>
-        <file>res/navigation.png</file>
-        <file>res/arrow-up.png</file>
-        <file>res/arrow-down.png</file>
-        <file>res/wifi.png</file>
-        <file>res/steering-wheel.png</file>
         <file>res/svg/audiotrack-24px.svg</file>
         <file>res/svg/expand_less-24px.svg</file>
         <file>res/svg/expand_more-24px.svg</file>
@@ -24,12 +16,12 @@
         <file>res/svg/signal_wifi_off-24px.svg</file>
         <file>res/svg/navigation-black-48dp.svg</file>
         <file>res/svg/car.svg</file>
+        <file>res/svg/place-24px.svg</file>
+        <file>res/svg/local_gas_station-24px.svg</file>
+        <file>res/svg/search-24px.svg</file>
     </qresource>
     <qresource prefix="/">
         <file>res/cover.jpeg</file>
-        <file>Sleep Away.mp3</file>
-        <file>EARFQUAKE.mp3</file>
-        <file>Tyler_The_Creator_-_Earfquake_talkglitz.tv.mp3</file>
     </qresource>
     <qresource prefix="/media"/>
 </RCC>

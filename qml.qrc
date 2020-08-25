@@ -6,5 +6,6 @@
         <file>Car.qml</file>
         <file>Calls.qml</file>
         <file>Navigation.qml</file>
+        <file>SearchBar.qml</file>
     </qresource>
 </RCC>

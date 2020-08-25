@@ -230,7 +230,7 @@ ApplicationWindow {
                     Text {
                         id: navigationTabLabel
                         text: qsTr("Navigation")
-                        anchors.top: navigatonTabImage.bottom
+                        anchors.top: navigationTabImage.bottom
                         anchors.topMargin: 0
                         font.pointSize: 9
                         font.family: "Roboto"
